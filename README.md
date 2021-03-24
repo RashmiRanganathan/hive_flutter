@@ -13,10 +13,12 @@ Generators are used to create table
 No migrations required. Just delete and create new table.
 
 ## Packaged Required 
+```
 hive: ^1.4.0+1
 hive_generator: 0.8.1
 path_provider:  ^1.5.1
 build_runner: 1.10.3
+```
 
 ## Auto generate the dependecy code for tables
 
